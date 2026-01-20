@@ -1,0 +1,7 @@
+{
+  "name": "MyCEBFlightsv3 - Flight Booking",
+  "description": "A modern, high-performance flight booking application inspired by premium airline platforms, featuring AI-powered travel assistance and seamless booking flows.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
